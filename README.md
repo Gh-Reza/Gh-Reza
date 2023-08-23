@@ -2,7 +2,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻  I’m currently studying Web development at Mivroverse
+- 👨🏽‍💻  I’m currently studying Web development at Microverse
 - 🤔 My interest lies in web development, mobile development, problem-solving, and machine learning
 - 💬 Ask me about anything from [ghrezam97@gmail.com](mailto:ghrezam97@gmail.com), I love to answer!
 - 🌐 You can see my portfolio through [here](https://gh-reza.github.io/Portfolio/)
